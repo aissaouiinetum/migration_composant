@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendProperties="http://www.talend.org/properties">
+  <TalendProperties:Project xmi:id="_gxXxMbFAEe2TaNpd6hNlAg" label="MIGRATION_COMPOSANT" language="java" technicalLabel="MIGRATION_COMPOSANT" author="_gxYYQLFAEe2TaNpd6hNlAg" productVersion="Talend Cloud Data Fabric-8.0.1.20230117_1223-patch" url="{&quot;commitLogPattern&quot;:&quot;{0}&quot;,&quot;location&quot;:&quot;https://github.com/aissaouiinetum/migration_composant.git&quot;,&quot;settings&quot;:&quot;000&quot;,&quot;storage&quot;:&quot;git&quot;}" type="DQ" itemsRelationVersion="1.3" bigData="false">
+    <migrationTask xmi:id="_gykrELFAEe2TaNpd6hNlAg" id="org.talend.repository.model.migration.CheckProductVersionMigrationTask" breaks="7.1.0" version="7.1.1"/>
+  </TalendProperties:Project>
+  <TalendProperties:User xmi:id="_gxYYQLFAEe2TaNpd6hNlAg" login="adel.aissaoui@inetum.world" firstName="Adel" lastName="AISSAOUI" type="DQ"/>
+</xmi:XMI>
